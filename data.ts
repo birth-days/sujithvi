@@ -52,12 +52,12 @@ export const languages: Skill[] = [
   },
   {
     Icon: BsCircleFill,
-    name: "Java Script",
+    name: "JavaScript",
     level: "60",
   },
   {
     Icon: BsCircleFill,
-    name: "React Native",
+    name: "C/C++",
     level: "80",
   },
   {
@@ -68,7 +68,7 @@ export const languages: Skill[] = [
   {
     Icon: BsCircleFill,
     name: "Django",
-    level: "80",
+    level: "40",
   },
   {
     Icon: BsCircleFill,
