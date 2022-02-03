@@ -28,15 +28,13 @@ const ThingsILove = () => (
     </Card>
     
     <Card>
-    <a href="/blog">
       <CardIcon>
         <FontAwesomeIcon icon={faMicroblog} />
       </CardIcon>
       <CardText style={{fontSize:'25px'}}>Read my blog on : </CardText>
       <CardTitle style={{fontSize:'20px', paddingTop: '0px'}}>
-        Offline In A Flash
+      <a href="/blog">Offline In A Flash</a>
       </CardTitle>
-      </a>
     </Card>
   </Flex>
 );
