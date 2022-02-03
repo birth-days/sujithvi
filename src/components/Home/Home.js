@@ -26,8 +26,9 @@ const ThingsILove = () => (
         Rich Dad Poor Dad
       </CardTitle>
     </Card>
-    <a href="/blog">
+    
     <Card>
+    <a href="/blog">
       <CardIcon>
         <FontAwesomeIcon icon={faMicroblog} />
       </CardIcon>
@@ -35,8 +36,8 @@ const ThingsILove = () => (
       <CardTitle style={{fontSize:'20px', paddingTop: '0px'}}>
         Offline In A Flash
       </CardTitle>
+      </a>
     </Card>
-    </a>
   </Flex>
 );
 
