@@ -17,7 +17,7 @@ const BlogPost = ({ data, pageContext }) => {
   const { title, date } = data.markdownRemark.frontmatter;
   const { timeToRead, html, excerpt, id } = data.markdownRemark;
 
-  const baseSlugUrl = 'https://github.com/birth-days/sujithvi/' + pageContext.slug;
+  const baseSlugUrl = 'https://github.com/birth-days/sujithvi' + pageContext.slug;
   const disqusConfig = {
     identifier: id,
     title: title,
