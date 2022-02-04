@@ -18,7 +18,7 @@ things in college,
 
 These are the things that is in my mind
 
-![Reboot and Webdesign](./images/reboot.jpeg)
+![`Team Semi :`](./images/reboot.jpeg)
 ## Hackathons
 
 Actually by end of first year we managed to form a team with similar thoughts
