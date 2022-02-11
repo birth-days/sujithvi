@@ -61,7 +61,6 @@ it was too lengthy and complex with few weeks purely based on Linear Algebra.
 Thus I just stopped it for a while but managed to obtain a certificate (Don't
 ask me how its a secret)
 
-![`Schemers`](./images/NSS.mp4)
 
 ## NSS
 
