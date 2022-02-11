@@ -28,7 +28,7 @@ const About = () => {
         
         <Quote>
           <p align="center" style={{fontSize: '20px'}}>
-            "Life is like a music, to enjoy it we first tune it"
+            "If something's important enough, you should try. Even if - the probable outcome is failure."
           </p>
         </Quote>
       </Flex>
