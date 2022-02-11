@@ -35,7 +35,7 @@ const Quote = ({ children }) => (
   <QuoteWrapper>
     {children}
     <br />
-    <i>- Elon Musk</i>
+    <i>- Sujith V I</i>
   </QuoteWrapper>
 );
 
